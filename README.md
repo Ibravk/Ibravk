@@ -26,13 +26,19 @@ Interface utilisateur interactive et responsive.
 🔗 API utilisée :
 The Movie Database (TMDb) : Fournit des données sur les films, les séries, les images, et plus encore. Documentation officielle : TMDb API
 
-### [Nom du Projet 2](lien_vers_projet)
-Une autre description de projet. "Une API open-source qui facilite l'intégration des paiements."
+### [Quizz](https://github.com/Ibravk/quizz.app)
 
----
+🎯 React Quiz App
+Une application de quiz interactive développée avec React et configurée via Vite, offrant une expérience utilisateur rapide et fluide.
 
-## 🏆 Stats GitHub
-![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical)
+🛠️ Fonctionnalités principales :
+📚 Quiz Dynamique : Génération de questions aléatoires sur divers sujets.
+📊 Suivi des Scores : Calcul automatique du score.
+💻 Interface Moderne : Conception encore à travailler.
+
+🚀 Technologies Utilisées :
+React : Pour construire une interface utilisateur interactive.
+Vite : Pour une configuration rapide et un développement optimisé.
 
 ---
 
