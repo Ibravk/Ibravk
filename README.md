@@ -13,8 +13,18 @@
 ---
 
 ## 🚀 Projets
-### [Nom du Projet 1](lien_vers_projet)
-Description courte de ce projet. Par exemple, "Une application web pour gérer vos tâches quotidiennes."
+### [MovieDATABASE](https://github.com/Ibravk/Movies)
+
+🎬 Movie Database Project
+Une application web dynamique développée avec JavaScript qui permet aux utilisateurs de rechercher des informations sur les films et séries grâce à l'API The Movie Database (TMDb).
+
+🛠️ Fonctionnalités principales :
+Recherche de films et séries par titre.
+Affichage des détails comme le résumé, les genres, la note, et les acteurs.
+Interface utilisateur interactive et responsive.
+
+🔗 API utilisée :
+The Movie Database (TMDb) : Fournit des données sur les films, les séries, les images, et plus encore. Documentation officielle : TMDb API
 
 ### [Nom du Projet 2](lien_vers_projet)
 Une autre description de projet. "Une API open-source qui facilite l'intégration des paiements."
