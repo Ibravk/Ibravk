@@ -6,8 +6,8 @@
 
 ## 🔧 Technologies et Outils
 - **Langages** : Html, Css, Sass, JavaScript.
-- **Frameworks** : React, Django, etc.
-- **Outils DevOps** : Docker, GitHub Actions
+- **Frameworks** : React, VueJs 3, etc.
+- **Outils DevOps** : GitHub Actions
 - **Autres** : Figma, Postman
 
 ---
