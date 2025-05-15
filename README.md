@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ibrahim Poyraz!
+# 👋 Hello, I'm Ibrahim !
 
 🌟 **Junior Développeur Web** | 💻 **Open-source enthusiast** | 🌍 Basé à Bruxelles
 
@@ -6,7 +6,7 @@
 
 ## 🔧 Technologies et Outils
 - **Langages** : Html, Css, Sass, JavaScript.
-- **Frameworks** : React, VueJs 3, etc.
+- **Frameworks** : VueJs 3, etc.
 - **Outils DevOps** : GitHub Actions
 - **Autres** : Figma, Postman
 
@@ -43,14 +43,13 @@ Vite : Pour une configuration rapide et un développement optimisé.
 ---
 
 ## 🌱 À propos de moi
-- 🔭 Actuellement, je travaille sur **un projet starter Api + Authentification token**.
-- 🌱 J’apprends actuellement **Le Backend**.
-- 🤝 Je suis ouvert à **collaborer sur des projets open-source**.
+- 🔭 Actuellement, je travaille sur **un projet en entreprise**.
+- 🌱 J’apprends actuellement **Le FrontEnd**.
+
 
 ---
 
 ## 📫 Me contacter
-- [LinkedIn](https://www.linkedin.com/in/votreprofil)
 - [Email](mailto:poyrazibrahim270@gmail.com)
 
 
