@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ibrahim !
 
-🌟 **Junior Développeur Web** | 💻 **Open-source enthusiast** | 🌍 Basé à Bruxelles
+🌟 **Junior Développeur Web** | 💻 **Open-source enthusiast** | 
 
 ---
 
